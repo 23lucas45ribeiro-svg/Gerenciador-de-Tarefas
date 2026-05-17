@@ -105,7 +105,7 @@ def adicionar_tarefa():
     if resultado == "removida":
         print("Criando nova versão da tarefa...")
 
-    if prioridade not in ['alta', 'media', 'baixa']:
+    if prioridade not in ['alta', 'media','média', 'baixa']:
         print("\n❌ Prioridade inexistente")
         print("Tarefa não cadastrada")
         return
