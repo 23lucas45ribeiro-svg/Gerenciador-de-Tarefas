@@ -1,8 +1,5 @@
 ---
 
-Abaixo está o conteúdo completo formatado em Markdown **somente para você copiar e colar** direto no seu repositório do GitHub:
-
-```markdown
 # 📂 Gerenciador de Tarefas CLI
 
 Este repositório apresenta um **Gerenciador de Tarefas via Terminal (CLI)** desenvolvido inteiramente em Python. Sendo o meu primeiro projeto focado no desenvolvimento Back-end, ele foi projetado entre outubro e dezembro de 2025 com o objetivo de consolidar conceitos de lógica de programação, manipulação de arquivos com o formato JSON, tratamento de exceções e persistência de dados.
