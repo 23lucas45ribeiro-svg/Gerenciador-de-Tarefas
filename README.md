@@ -1,16 +1,9 @@
-O arquivo atualizado está pronto para download abaixo:
-[file-tag: code-generated-file-0-1779040869883078790]
-
 ---
 
 Abaixo está o conteúdo completo formatado em Markdown **somente para você copiar e colar** direto no seu repositório do GitHub:
 
 ```markdown
 # 📂 Gerenciador de Tarefas CLI
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JSON](https://img.shields.io/badge/json-5EA?style=for-the-badge&logo=json&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 Este repositório apresenta um **Gerenciador de Tarefas via Terminal (CLI)** desenvolvido inteiramente em Python. Sendo o meu primeiro projeto focado no desenvolvimento Back-end, ele foi projetado entre outubro e dezembro de 2025 com o objetivo de consolidar conceitos de lógica de programação, manipulação de arquivos com o formato JSON, tratamento de exceções e persistência de dados.
 
